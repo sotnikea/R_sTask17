@@ -29,7 +29,7 @@ Archive `rev.task.7z`, attached to the assignment (archive password: rev).
 ![pic_5](https://github.com/sotnikea/R_sTask17/raw/main/img/pic5.png)  
 
 Еще выше находится проверка равенства некоторого значения шести. Неуспешность данной проверки напрямую влияет на результат оценки серийного ключа.   
-![pic_6]((https://github.com/sotnikea/R_sTask17/raw/main/img/pic6.png)  
+![pic_6](https://github.com/sotnikea/R_sTask17/raw/main/img/pic6.png)  
 
 Устанавливаем в строке со сравнением breakpoint с помощью кнопки **F2** и запускаем отладку  
 ![pic_7](https://github.com/sotnikea/R_sTask17/raw/main/img/pic7.png)  
